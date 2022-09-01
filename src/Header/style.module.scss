@@ -5,6 +5,12 @@
 
         img{
             max-width: 33.33%;
+            @media (max-width: 992px){
+                max-width: 100%;
+                &.dois, &.tres{
+                    display: none;
+                }
+            }
         }
     }
 
@@ -28,10 +34,16 @@
             font-size: 4rem;
             text-decoration: underline;
             text-decoration-color: #bfdef1;
+            @media (max-width: 992px){
+                font-size: 3rem;
+            }
         }
 
         h3{
             font-size: 2rem;
+            @media (max-width: 992px){
+                font-size: 1.8rem;
+            }
         }
     }
 }

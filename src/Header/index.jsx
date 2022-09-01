@@ -4,9 +4,9 @@ export function Header() {
     return (
         <header className={styles.header}>
             <div className={styles.header__fotos}>
-                <img src="/ft1.webp" alt="Vite logo" />
-                <img src="/ft2.webp" alt="Vite logo" />
-                <img src="/ft3.webp" alt="Vite logo" />
+                <img className={styles.um} src="/ft1.webp" alt="Vite logo" />
+                <img className={styles.dois} src="/ft2.webp" alt="Vite logo" />
+                <img className={styles.tres} src="/ft3.webp" alt="Vite logo" />
             </div>
             <div className={styles.header__perfil}>
                 <img src="/bea.jpg" alt="Vite logo" />

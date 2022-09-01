@@ -4,7 +4,7 @@
             "id": 1,
             "nome": "Liquidificador Oster 1400 Full OLIQ610 3,2 Litros 15 Velocidades 1.400 W",
             "valor": "R$ 159,00",
-            "disponivel": false,
+            "disponivel": true,
             "link": "https://www.zoom.com.br/liquidificador/liquidificador-oster-oliq610-3-2-litros-15-velocidades-1-400-w",
             "foto": "/produtos/1.jpg",
             "pessoa": "Bruno Leonardo"
