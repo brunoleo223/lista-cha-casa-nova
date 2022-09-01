@@ -1,0 +1,39 @@
+//bfdef1
+
+.convite{
+    background-color: #bfdef1;
+    padding: 50px 20px;
+    margin: 50px 0;
+    text-align: center;
+
+    h2{
+        font-size: 2rem;
+
+        span{
+            background-color: #e5f4fe;
+            padding: 5px;
+            border-radius: 5px;
+            display: inline-block;
+        }
+
+    }
+
+    a{
+        display: inline-block;
+        background-color: #295979;
+        padding: 5px 20px;
+        border-radius: 5px;
+        margin-top: 30px;
+        font-size: 1.5rem;
+        color: #fff;
+        text-decoration: none;
+
+        &:hover{
+            background-color: #377aa7;
+        }
+
+        &:active{
+            background-color: #164869;
+        }
+    }
+}

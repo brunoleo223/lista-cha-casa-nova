@@ -1,0 +1,40 @@
+{
+    "presentes": [
+        {
+            "id": 1,
+            "nome": "Liquidificador Oster 1400 Full OLIQ610 3,2 Litros 15 Velocidades 1.400 W",
+            "valor": "R$ 159,00",
+            "disponivel": false,
+            "link": "https://www.zoom.com.br/liquidificador/liquidificador-oster-oliq610-3-2-litros-15-velocidades-1-400-w",
+            "foto": "/produtos/1.jpg",
+            "pessoa": "Bruno Leonardo"
+        }, 
+        {
+            "id": 2,
+            "nome": "potes de vidro p/ mantimentos c/ tampa bambu oikos - 4 pçs - u",
+            "valor": "R$ 71,90",
+            "disponivel": false,
+            "link": "https://www.cea.com.br/potes-de-vidro-p--mantimentos-c--tampa-bambu-oikos---4-pcs-4156731/p",
+            "foto": "/produtos/2.webp",
+            "pessoa": "Bruno Leonardo"
+        }, 
+        {
+            "id": 3,
+            "nome": "Fruteira De Ferro Aramado Losango Preto",
+            "valor": "R$39,90",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2623461516-fruteira-de-ferro-aramado-losango-preto-_JM",
+            "foto": "/produtos/3.webp",
+            "pessoa": "Bruno Leonardo"
+        }, 
+        {
+            "id": 4,
+            "nome": "Descascador Ralador Legumes Frutas Multifuncional Inox 17cm",
+            "valor": "R$27,60",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2204373266-descascador-ralador-legumes-frutas-multifuncional-inox-17cm-_JM",
+            "foto": "/produtos/4.webp",
+            "pessoa": "Bruno Leonardo"
+        }
+    ]
+}

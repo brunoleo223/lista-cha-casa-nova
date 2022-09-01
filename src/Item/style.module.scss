@@ -1,0 +1,50 @@
+.item{
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    border: 4px solid #fff;
+
+    &:hover{
+        border-color: #bfdef1;
+    }
+    
+    img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    a{
+        display: inline-block;
+        background-color: #295979;
+        padding: 5px 20px;
+        border-radius: 5px;
+        margin-top: 30px;
+        font-size: 1.5rem;
+        color: #fff;
+        text-decoration: none;
+
+        &:hover{
+            background-color: #377aa7;
+        }
+
+        &:active{
+            background-color: #164869;
+        }
+    }
+
+    a.link2{
+        background-color: #fff;
+        color: #295979;
+        border: 1px solid #295979;
+    }
+
+    span.presente{
+        display: inline-block;
+        width: 100%;
+        background-color: #c8f1bf;
+        padding: 5px;
+        margin-top: 45px;
+        font-size: 1.5rem;
+        border-radius: 5px;
+    }
+}
