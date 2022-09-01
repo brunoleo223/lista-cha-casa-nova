@@ -1,5 +1,5 @@
 import styles from './style.module.scss';
-import data from '../utils/presentes.json'
+import data from '../../utils/presentes.json'
 import { Item } from '../Item';
 
 export function Presentes() {

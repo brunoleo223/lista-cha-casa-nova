@@ -1,7 +1,8 @@
 import './App.css'
-import { Convite } from './Convite'
-import { Header } from './Header'
-import { Presentes } from './Presentes'
+import { Convite } from './components/Convite'
+import { Header } from './components/Header'
+import { Presentes } from './components/Presentes'
+import { Footer } from './components/Footer'
 
 function App() {
 
@@ -12,6 +13,8 @@ function App() {
     <Convite />
 
     <Presentes />
+
+    <Footer />
    </>
   )
 }
