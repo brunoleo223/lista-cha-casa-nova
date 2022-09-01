@@ -1,5 +1,9 @@
+import styles from './style.module.scss';
+
 export function Footer(){
     return (
-        <a href="https://github.com/brunoleo223" target="_blank">Dev @brunoleo223</a>
+        <footer  className={styles.footer}>
+            <a href="https://github.com/brunoleo223/lista-cha-casa-nova" target="_blank">Link do repositório no GitHub</a>
+        </footer>
     )
 }
