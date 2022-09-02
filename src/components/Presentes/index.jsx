@@ -5,8 +5,8 @@ import { Item } from '../Item';
 export function Presentes() {
     return (
         <div className={styles.presentes}>
-            <h2>gostaria de me ajudar?</h2>
-            <h3>aqui tem algumas coisas que vou comprar, se quiser você pode me dar uma delas de presente</h3>
+            <h2>quer dar um presentin?</h2>
+            <h3>aqui tem algumas coisas que eu vou precisar, <br/> se quiser deixar um pedacinho de você no apezin 805, é só escolher 👇 </h3>
             <div className={styles.presentes__lista}>
                 {data.presentes.map((item) => (
                     <Item
