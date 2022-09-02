@@ -44,6 +44,15 @@
             "link": "https://www.magazineluiza.com.br/escorredor-de-pratos-de-parede-suspenso-dobravel-10-pratos-pia-metaltru/p/bh51kg60cc/ud/espt/",
             "foto": "/produtos/5.webp",
             "pessoa": ""
+        },
+        {
+            "id": 6,
+            "nome": "organizador de talheres",
+            "valor": "R$45,72",
+            "disponivel": false,
+            "link": "https://www.amazon.com.br/Organizador-Talheres-Compacto-Divis%C3%B3rias-Gaveta/dp/B086H6LXPR",
+            "foto": "/produtos/6.jpeg",
+            "pessoa": ""
         }
     ]
 }
