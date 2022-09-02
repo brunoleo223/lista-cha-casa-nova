@@ -224,6 +224,42 @@
             "link": "https://www.amazon.com.br/Flat-Mop-Refil-extra-Gr%C3%A1tis/dp/B08NVY9BF6/ref=asc_df_B08NVY9BF6/?tag=googleshopp00-20&linkCode=df0&hvadid=400260112440&hvpos=&hvnetw=g&hvrand=11881037896875878832&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001541&hvtargid=pla-1132649902527&psc=1",
             "foto": "/produtos/26.jpg",
             "pessoa": ""
+        },
+        {
+            "id": 28,
+            "nome": "air fryer",
+            "valor": "R$ 299,90",
+            "disponivel": true,
+            "link": "https://www.carrefour.com.br/fritadeira-sem-oleo-pratic-fryer-cadence-multifuncional-frt515-3-litros-mp928586487/p?utm_medium=sem&utm_source=google_pmax_4p&utm_campaign=4p_performancemax_eletro_eletroportateis&gclid=CjwKCAjwsMGYBhAEEiwAGUXJaSNKJ-npIABNJIAxwOM7E5mjet16tm__XBBlleBexhwYFs-YknowpBoCLlgQAvD_BwE",
+            "foto": "/produtos/29.wepb",
+            "pessoa": "Vânia"
+        },
+        {
+            "id": 30,
+            "nome": "seca salada",
+            "valor": "R$ 31,60",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1720533225-centrifuga-de-salada-secador-verduras-manual-4-litros-cores-_JM#position=4&search_layout=grid&type=pad&tracking_id=c5d2f9a0-21dd-4e09-8b1b-0ce518e575d0#position=4&search_layout=grid&type=pad&tracking_id=c5d2f9a0-21dd-4e09-8b1b-0ce518e575d0&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=4&ad_click_id=Mzk0MmJlYWMtZjhkYS00MzAyLTkyYjctOTkxYWEwYWVlNzNj",
+            "foto": "/produtos/30.wepb",
+            "pessoa": ""
+        },
+        {
+            "id": 31,
+            "nome": "jogo de panela",
+            "valor": "R$ 159,90",
+            "disponivel": true,
+            "link": "https://www.casasbahia.com.br/conjunto-de-panelas-5-pecas-alegrete-basic-em-aluminio-com-revestimento-antiaderente-e-tampa-de-vidro-com-saida-de-vapor-cinza-55035333/p/55035333?utm_medium=Cpc&utm_source=google_freelisting&IdSku=55035333&idLojista=10037&tipoLojista=1P",
+            "foto": "/produtos/31.wepb",
+            "pessoa": "Antônio"
+        },
+        {
+            "id": 32,
+            "nome": "aspirador de pó",
+            "valor": "R$ 157,90",
+            "disponivel": false,
+            "link": "https://www.zoom.com.br/aspirador-po-agua/aspirador-de-po-portatil-mondial-turbo-cycle-ap-35-ap-36?_lc=88&searchterm=aspirador%20de%20p%C3%B3",
+            "foto": "/produtos/32.jpg",
+            "pessoa": ""
         }
     ]
 }
