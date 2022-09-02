@@ -15,7 +15,7 @@ export function Item({nome, valor, link, foto, disponivel, pessoa}) {
             {!disponivel && 
                 <div className="item__botoes">
                     <a href="" target="_blank">Vou dar presente!</a>
-                    <a href={link} className={styles.link2} target="_blank">Ver link</a>
+                    <a href={link} className={styles.link2} target="_blank">ver mais!</a>
                 </div>
             }
         </div>
