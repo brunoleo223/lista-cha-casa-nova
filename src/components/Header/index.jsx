@@ -11,7 +11,7 @@ export function Header() {
             <div className={styles.header__perfil}>
                 <img src="/bea.jpg" alt="Vite logo" />
                 <h1>eu mudei 🫶🏻,</h1>
-                <h3>e gostaria de te convidar a comemorar essa nova etapa da minha vida</h3>
+                <h3> bora comemorar juntos essa nova etapa da minha vida?  </h3>
             </div>
         </header>
     )
