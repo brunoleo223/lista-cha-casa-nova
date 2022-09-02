@@ -35,6 +35,15 @@
             "link": "https://produto.mercadolivre.com.br/MLB-2204373266-descascador-ralador-legumes-frutas-multifuncional-inox-17cm-_JM",
             "foto": "/produtos/4.webp",
             "pessoa": "Bruno Leonardo"
+        },
+        {
+            "id": 5,
+            "nome": "escorredor suspenso",
+            "valor": "R$78,99",
+            "disponivel": false,
+            "link": "https://www.magazineluiza.com.br/escorredor-de-pratos-de-parede-suspenso-dobravel-10-pratos-pia-metaltru/p/bh51kg60cc/ud/espt/",
+            "foto": "/produtos/5.webp",
+            "pessoa": ""
         }
     ]
 }
