@@ -2,7 +2,7 @@
     "presentes": [
         {
             "id": 1,
-            "nome": "Liquidificador Oster 1400 Full OLIQ610 3,2 Litros 15 Velocidades 1.400 W",
+            "nome": "liquidificador oster",
             "valor": "R$ 159,00",
             "disponivel": true,
             "link": "https://www.zoom.com.br/liquidificador/liquidificador-oster-oliq610-3-2-litros-15-velocidades-1-400-w",
@@ -11,7 +11,7 @@
         }, 
         {
             "id": 2,
-            "nome": "potes de vidro p/ mantimentos c/ tampa bambu oikos - 4 pçs - u",
+            "nome": "potes de vidro para mantimentos",
             "valor": "R$ 71,90",
             "disponivel": false,
             "link": "https://www.cea.com.br/potes-de-vidro-p--mantimentos-c--tampa-bambu-oikos---4-pcs-4156731/p",
@@ -20,7 +20,7 @@
         }, 
         {
             "id": 3,
-            "nome": "Fruteira De Ferro Aramado Losango Preto",
+            "nome": "fruteira de ferro preta",
             "valor": "R$39,90",
             "disponivel": false,
             "link": "https://produto.mercadolivre.com.br/MLB-2623461516-fruteira-de-ferro-aramado-losango-preto-_JM",
@@ -29,7 +29,7 @@
         }, 
         {
             "id": 4,
-            "nome": "Descascador Ralador Legumes Frutas Multifuncional Inox 17cm",
+            "nome": "descascador",
             "valor": "R$27,60",
             "disponivel": false,
             "link": "https://produto.mercadolivre.com.br/MLB-2204373266-descascador-ralador-legumes-frutas-multifuncional-inox-17cm-_JM",
@@ -51,7 +51,214 @@
             "valor": "R$45,72",
             "disponivel": false,
             "link": "https://www.amazon.com.br/Organizador-Talheres-Compacto-Divis%C3%B3rias-Gaveta/dp/B086H6LXPR",
-            "foto": "/produtos/6.jpeg",
+            "foto": "/produtos/6.jpg",
+            "pessoa": ""
+        },
+        {
+            "id": 7,
+            "nome": "jogo de pratos",
+            "valor": "R$70,00",
+            "disponivel": false,
+            "link": "https://bit.ly/3q2J0eX",
+            "foto": "/produtos/7.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 8,
+            "nome": "jogo de talheres",
+            "valor": "R$47,90",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1863106806-jogo-de-talheres-faqueiro-tramontina-leme-lminas-aco-inox-_JM#position=9&search_layout=grid&type=item&tracking_id=a9771b39-2b6c-4781-a03d-61b9f4aed904",
+            "foto": "/produtos/8.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 9,
+            "nome": "peneiras inox",
+            "valor": "R$22,65",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1615055564-jogo-3-peneiras-aco-inox-luxo-pmg-utensilios-de-cozinha-kit-_JM#position=2&search_layout=grid&type=item&tracking_id=5f73d660-939a-4ecf-9126-bc3a61b205ae",
+            "foto": "/produtos/9.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 10,
+            "nome": "tábua de corte",
+            "valor": "R$40,70",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2146513402-tabua-de-corte-legumes-carne-bambu-com-alca-35x26cm-top-_JM#position=4&search_layout=grid&type=item&tracking_id=d962146b-a294-4370-9c7c-48f01768002d",
+            "foto": "/produtos/10.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 11,
+            "nome": "jogo de copos",
+            "valor": "R$40,66",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2739935030-jogo-de-copo-220ml-whiskey-baixo-conjunto-vidro-transparente-_JM#position=55&search_layout=stack&type=item&tracking_id=fb63a54c-849e-48d7-af22-41d1ebff31ea",
+            "foto": "/produtos/11.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 12,
+            "nome": "jarra de vidro",
+            "valor": "R$39,90",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1604333014-jarra-decanter-de-vinho-ou-agua-paris-vidro-1170ml-ruvolo-_JM#position=5&search_layout=grid&type=item&tracking_id=45e41f28-c376-48bc-a598-46ee888a8316",
+            "foto": "/produtos/12.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 13,
+            "nome": "potes herméticos para mantimentos",
+            "valor": "R$145,90",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1871698154-potes-organizador-hermeticos-para-alimentoscozinha-_JM?matt_tool=97704940&matt_word=&matt_source=google&matt_campaign_id=17296933809&matt_ad_group_id=137677410155&matt_match_type=&matt_network=g&matt_device=c&matt_creative=599002481023&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=584343966&matt_product_id=MLB1871698154&matt_product_partition_id=1403983331189&matt_target_id=pla-1403983331189&gclid=CjwKCAjwsMGYBhAEEiwAGUXJaeUmb5NndtUnjztZ1Kp9lw1I4KUU7wtv9xm52T3nV6kt4oeOGF30LhoCJPkQAvD_BwE",
+            "foto": "/produtos/13.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 14,
+            "nome": "amassador de batatas",
+            "valor": "R$20,61",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2646824466-amassador-espremedor-de-batatas-manual-profissional-grande-_JM#position=24&search_layout=grid&type=item&tracking_id=b7675342-8d78-4638-92af-27a6759e35c0",
+            "foto": "/produtos/14.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 15,
+            "nome": "potes herméticos para geladeira",
+            "valor": "R$99,90",
+            "disponivel": false,
+            "link": "https://www.pontofrio.com.br/conjunto-de-potes-10-pecas-electrolux-em-polipropileno-com-fechamento-hermetico-7278555/p/7278555?utm_medium=cpc&utm_source=GP_PLA&IdSku=7278555&idLojista=16&tipoLojista=1P&utm_campaign=gg_pmax_inter_utld&gclid=Cj0KCQjw2_OWBhDqARIsAAUNTTGZB72-VsBB0cshXlDKa8xXOkl-SMjAtJ_62Faup0FqwfjibEnhPdMaAj1dEALw_wcB",
+            "foto": "/produtos/15.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 16,
+            "nome": "conjunto de utensílios em silicone",
+            "valor": "R$139,90",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2663693131-conjunto-utensilios-cozinha-silicone-porta-talheres-premio-_JM#position=25&search_layout=grid&type=item&tracking_id=7836a669-9700-4dde-bd1a-37c0fc7664d7",
+            "foto": "/produtos/16.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 17,
+            "nome": "panela de pressão",
+            "valor": "R$129,90",
+            "disponivel": false,
+            "link": "https://www.americanas.com.br/produto/1236079481?epar=bp_pl_00_go_ud_d_58_1p&opn=YSMESP&WT.srch=1&offerId=5f1f375279bf8430cb477b45&gclid=CjwKCAjwsMGYBhAEEiwAGUXJafxmd6UQ78XFjAKd6g7mZN8jD6uZRVR2odYwsMYbF6lKDugKEAHTGhoCOBgQAvD_BwE",
+            "foto": "/produtos/17.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 18,
+            "nome": "sanduicheira",
+            "valor": "R$65,44",
+            "disponivel": false,
+            "link": "https://www.zoom.com.br/grill-sanduicheira/grill-sanduicheira-cadence-san222-antiaderente-ondulada?_lc=88&searchterm=sanduicheira%20cadence",
+            "foto": "/produtos/18.jpg",
+            "pessoa": ""
+        },
+        {
+            "id": 19,
+            "nome": "jogo de toalhas preto",
+            "valor": "R$89,90",
+            "disponivel": false,
+            "link": "https://www.riachuelo.com.br/jogo-de-banho-royal-4-pecas-santista-preto-14572508001_sku?gclid=CjwKCAjwsMGYBhAEEiwAGUXJaYZ-hYLO8ugNxYhsHkSOVZdy-1ZNQr1d0Nj6v3x65pHVEXvTA1y6IxoC48cQAvD_BwE",
+            "foto": "/produtos/19.wepb",
+            "pessoa": ""
+        },
+        {
+            "id": 20,
+            "nome": "jogo de pia para banheiro",
+            "valor": "R$41,90",
+            "disponivel": false,
+            "link": "https://www.carrefour.com.br/conjunto-3-pecas-para-banheiro-de-ceramica-londres-branco-e-preto-lyor-mp924339781/p",
+            "foto": "/produtos/20.wepb",
+            "pessoa": ""
+        },
+        {
+            "id": 21,
+            "nome": "jogo de cama preto",
+            "valor": "R$169,90",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1612698102-kit-edredom-casal-padrao-com-jogo-de-cama-lencol-6-pecas-_JM?searchVariation=61012187836#searchVariation=61012187836&position=6&search_layout=grid&type=item&tracking_id=ba4793bd-7166-4569-8fe4-04474e837065",
+            "foto": "/produtos/21.wepb",
+            "pessoa": ""
+        },
+        {
+            "id": 22,
+            "nome": "cobertor preto de microfibra casal",
+            "valor": "R$49,99",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1933822433-manta-microfibra-lisa-casal-cobertor-soft-veludo-220mx180m-_JM?searchVariation=91072980960#searchVariation=91072980960&position=15&search_layout=stack&type=item&tracking_id=2f622f36-ac0f-4e83-8978-fba91e02ba23",
+            "foto": "/produtos/22.wepb",
+            "pessoa": ""
+        },
+        {
+            "id": 23,
+            "nome": "cesto de roupa dobrável",
+            "valor": "R$46,11",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1604904669-cesto-organizador-de-brinquedo-roupa-suja-dobravel-20-litros-_JM#position=15&search_layout=grid&type=item&tracking_id=6be10609-33f0-4fb9-bff5-0254f0372a14",
+            "foto": "/produtos/23.wepb",
+            "pessoa": ""
+        },
+        {
+            "id": 24,
+            "nome": "moop spray",
+            "valor": "R$68,50",
+            "disponivel": false,
+            "link": "https://www.amazon.com.br/Magico-Esfreg%C3%A3o-Reservat%C3%B3rio-Limpeza-Profunda/dp/B08GRB2F49/ref=asc_df_B08GRB2F49/?tag=googleshopp00-20&linkCode=df0&hvadid=379805722748&hvpos=&hvnetw=g&hvrand=11881037896875878832&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001541&hvtargid=pla-971760475434&psc=1",
+            "foto": "/produtos/24.jpg",
+            "pessoa": ""
+        },
+        {
+            "id": 26,
+            "nome": "moop pano",
+            "valor": "R$65,98",
+            "disponivel": false,
+            "link": "https://www.amazon.com.br/Flat-Mop-Refil-extra-Gr%C3%A1tis/dp/B08NVY9BF6/ref=asc_df_B08NVY9BF6/?tag=googleshopp00-20&linkCode=df0&hvadid=400260112440&hvpos=&hvnetw=g&hvrand=11881037896875878832&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001541&hvtargid=pla-1132649902527&psc=1",
+            "foto": "/produtos/26.jpg",
+            "pessoa": ""
+        },
+        {
+            "id": 28,
+            "nome": "air fryer",
+            "valor": "R$ 299,90",
+            "disponivel": true,
+            "link": "https://www.carrefour.com.br/fritadeira-sem-oleo-pratic-fryer-cadence-multifuncional-frt515-3-litros-mp928586487/p?utm_medium=sem&utm_source=google_pmax_4p&utm_campaign=4p_performancemax_eletro_eletroportateis&gclid=CjwKCAjwsMGYBhAEEiwAGUXJaSNKJ-npIABNJIAxwOM7E5mjet16tm__XBBlleBexhwYFs-YknowpBoCLlgQAvD_BwE",
+            "foto": "/produtos/29.wepb",
+            "pessoa": "Vânia"
+        },
+        {
+            "id": 30,
+            "nome": "seca salada",
+            "valor": "R$ 31,60",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1720533225-centrifuga-de-salada-secador-verduras-manual-4-litros-cores-_JM#position=4&search_layout=grid&type=pad&tracking_id=c5d2f9a0-21dd-4e09-8b1b-0ce518e575d0#position=4&search_layout=grid&type=pad&tracking_id=c5d2f9a0-21dd-4e09-8b1b-0ce518e575d0&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=4&ad_click_id=Mzk0MmJlYWMtZjhkYS00MzAyLTkyYjctOTkxYWEwYWVlNzNj",
+            "foto": "/produtos/30.wepb",
+            "pessoa": ""
+        },
+        {
+            "id": 31,
+            "nome": "jogo de panela",
+            "valor": "R$ 159,90",
+            "disponivel": true,
+            "link": "https://www.casasbahia.com.br/conjunto-de-panelas-5-pecas-alegrete-basic-em-aluminio-com-revestimento-antiaderente-e-tampa-de-vidro-com-saida-de-vapor-cinza-55035333/p/55035333?utm_medium=Cpc&utm_source=google_freelisting&IdSku=55035333&idLojista=10037&tipoLojista=1P",
+            "foto": "/produtos/31.wepb",
+            "pessoa": "Antônio"
+        },
+        {
+            "id": 32,
+            "nome": "aspirador de pó",
+            "valor": "R$ 157,90",
+            "disponivel": false,
+            "link": "https://www.zoom.com.br/aspirador-po-agua/aspirador-de-po-portatil-mondial-turbo-cycle-ap-35-ap-36?_lc=88&searchterm=aspirador%20de%20p%C3%B3",
+            "foto": "/produtos/32.jpg",
             "pessoa": ""
         }
     ]
