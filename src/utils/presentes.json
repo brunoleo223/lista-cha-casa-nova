@@ -4,28 +4,10 @@
             "id": 1,
             "nome": "liquidificador oster",
             "valor": "R$ 159,00",
-            "disponivel": true,
+            "disponivel": false,
             "link": "https://www.zoom.com.br/liquidificador/liquidificador-oster-oliq610-3-2-litros-15-velocidades-1-400-w",
             "foto": "/produtos/1.jpg",
-            "pessoa": "Bruno Leonardo"
-        }, 
-        {
-            "id": 2,
-            "nome": "potes de vidro para mantimentos",
-            "valor": "R$ 71,90",
-            "disponivel": false,
-            "link": "https://www.cea.com.br/potes-de-vidro-p--mantimentos-c--tampa-bambu-oikos---4-pcs-4156731/p",
-            "foto": "/produtos/2.webp",
-            "pessoa": "Bruno Leonardo"
-        }, 
-        {
-            "id": 3,
-            "nome": "fruteira de ferro preta",
-            "valor": "R$39,90",
-            "disponivel": false,
-            "link": "https://produto.mercadolivre.com.br/MLB-2623461516-fruteira-de-ferro-aramado-losango-preto-_JM",
-            "foto": "/produtos/3.webp",
-            "pessoa": "Bruno Leonardo"
+            "pessoa": ""
         }, 
         {
             "id": 4,
@@ -231,6 +213,15 @@
             "valor": "R$ 299,90",
             "disponivel": true,
             "link": "https://www.carrefour.com.br/fritadeira-sem-oleo-pratic-fryer-cadence-multifuncional-frt515-3-litros-mp928586487/p?utm_medium=sem&utm_source=google_pmax_4p&utm_campaign=4p_performancemax_eletro_eletroportateis&gclid=CjwKCAjwsMGYBhAEEiwAGUXJaSNKJ-npIABNJIAxwOM7E5mjet16tm__XBBlleBexhwYFs-YknowpBoCLlgQAvD_BwE",
+            "foto": "/produtos/28.wepb",
+            "pessoa": "Xuliana"
+        },
+        {
+            "id": 29,
+            "nome": "mini processador",
+            "valor": "R$ 39,90",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2147848914-processador-triturador-alimento-manual-grande-5lminas-inox-_JM#position=9&search_layout=stack&type=pad&tracking_id=321fae0b-136d-44cc-be47-e619ee1aa027#position=9&search_layout=stack&type=pad&tracking_id=321fae0b-136d-44cc-be47-e619ee1aa027&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=9&ad_click_id=N2M2NGNlMGItMGVjNC00MjllLTk0ZGItOWQ4OGNjOGQ5M2Mz",
             "foto": "/produtos/29.webp",
             "pessoa": "Vânia"
         },
@@ -260,6 +251,78 @@
             "link": "https://www.zoom.com.br/aspirador-po-agua/aspirador-de-po-portatil-mondial-turbo-cycle-ap-35-ap-36?_lc=88&searchterm=aspirador%20de%20p%C3%B3",
             "foto": "/produtos/32.jpg",
             "pessoa": ""
+        },
+        {
+            "id": 33,
+            "nome": "varal retrátil",
+            "valor": "R$ 129,90",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2710924079-varal-parede-magico-retratil-dobravel-ate-15kg-aluminio-_JM#position=29&search_layout=grid&type=item&tracking_id=6eb5cd27-236f-4ab0-8e62-4ec67352b047",
+            "foto": "/produtos/33.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 34,
+            "nome": "organizador de armários de cozinha",
+            "valor": "R$ 149,90",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2614263089-6-caixas-com-alca-transparente-empilhavel-multiuso-23x11x8cm-_JM#position=16&search_layout=grid&type=item&tracking_id=f1ac6236-de87-43ec-becb-fa1fa3fe760a",
+            "foto": "/produtos/34.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 35,
+            "nome": "fruteira suspensa",
+            "valor": "R$ 35,00",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2729813478-cesto-suspenso-aramado-prateleira-organizador-cozinha-g-_JM#position=7&search_layout=grid&type=item&tracking_id=bc566b18-d19f-4bdb-adc3-cebacfeb49bc",
+            "foto": "/produtos/35.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 37,
+            "nome": "cabide de porta",
+            "valor": "R$ 28,00",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1851910433-cabide-suporte-para-porta-com-5-ganchos-multiuso-_JM#position=19&search_layout=grid&type=item&tracking_id=e4268184-82ee-4007-9afe-be246c0f0d2f",
+            "foto": "/produtos/37.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 38,
+            "nome": "suporte para box banheiro",
+            "valor": "R$ 54,00",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-2684909071-suporte-porta-shampoo-encaixar-no-box-do-banheiro-grandeluxo-_JM?searchVariation=174676981709#searchVariation=174676981709&position=2&search_layout=grid&type=item&tracking_id=60db0857-3b5d-450e-b116-03b13b9c09b7",
+            "foto": "/produtos/38.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 39,
+            "nome": "organizador acrílico",
+            "valor": "R$ 54,00",
+            "disponivel": false,
+            "link": "https://produto.mercadolivre.com.br/MLB-1956434400-organizador-cosmeticos-acrilico-giratorio-porta-maquiagem-_JM#position=11&search_layout=stack&type=item&tracking_id=036fc11a-2b3b-454f-9126-92328873a81e",
+            "foto": "/produtos/39.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 40,
+            "nome": "caixas organizadoras",
+            "valor": "R$ 59,00",
+            "disponivel": false,
+            "link": "thttps://produto.mercadolivre.com.br/MLB-1532782554-kit-5-caixascesto-organizador-rattan-preto-7l-promoco-_JM#position=1&search_layout=grid&type=item&tracking_id=bf12c6c5-c4e2-4cd7-abb1-2a17ec72b5ba",
+            "foto": "/produtos/40.webp",
+            "pessoa": ""
+        },
+        {
+            "id": 41,
+            "nome": "cafeteira",
+            "valor": "R$ 319,00",
+            "disponivel": true,
+            "link": "thttps://produto.mercadolivre.com.br/MLB-1532782554-kit-5-caixascesto-organizador-rattan-preto-7l-promoco-_JM#position=1&search_layout=grid&type=item&tracking_id=bf12c6c5-c4e2-4cd7-abb1-2a17ec72b5ba",
+            "foto": "/produtos/40.webp",
+            "pessoa": "Bruno Léo"
         }
     ]
 }
