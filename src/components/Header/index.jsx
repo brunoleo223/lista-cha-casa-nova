@@ -10,7 +10,7 @@ export function Header() {
             </div>
             <div className={styles.header__perfil}>
                 <img src="/bea.jpg" alt="Vite logo" />
-                <h1>eu mudei 🫶🏻,</h1>
+                <h1>eu mudei <span> <img src="/coracao.jpg" style="width: 60px" alt="imagem de coração" /> </span>,</h1>
                 <h3> bora comemorar juntos essa nova etapa da minha vida?  </h3>
             </div>
         </header>
